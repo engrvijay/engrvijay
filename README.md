@@ -28,7 +28,7 @@ Simple TCP/IP applications deployment to cloud/Kubernetes
 
 https://github.com/engrvijay/Java
 
-======Docke setup to Test================
+======Docker env setup to Test================
 
 Create your custom network and run related container using this custome network. This helps to communicate and test:
 #docker network create my-network
