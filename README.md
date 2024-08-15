@@ -15,13 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 =======Cryptography with Python==================
+
 https://github.com/engrvijay/pycryptography
 
 ===========Python fastapi deployment to K8s================
+
 https://github.com/engrvijay/linxits_fastapi
 
 ======Java=>Docker=>Cloud================
+
 Simple TCP/IP applications deployment to cloud/Kubernetes
+
 https://github.com/engrvijay/Java
 
 
