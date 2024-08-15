@@ -34,6 +34,7 @@ Create your custom network and run related container using this custome network.
 #docker network create my-network
 
 #docker run --name proc1 --network my-network
+
 #docker run --name proc2 --network my-network
 
 so these two proc1 and proc2 will be on same docker network.
