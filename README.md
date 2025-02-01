@@ -48,8 +48,8 @@ so these two proc1 and proc2 will be on same docker network.
 
 https://github.com/engrvijay/pyutils
 
+============Python django web==================
 
-
-
+https://github.com/engrvijay/linxits
 
 
