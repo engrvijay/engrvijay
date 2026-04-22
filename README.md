@@ -2,14 +2,14 @@
 ### As an Engineer, Leader building, delivering and supporting Security, HPC solution with RCA, Quality, Compliance-Integrity frameworks.
 ### Delivered with demonstrated collaboration, problem-solving, teamwork and building trust across departments, customers-users and teams.
 ### Let me know for security system demo.
-🔭 I’m currently working on ...
+🔭 currently working on ...
 <img width="975" height="1031" alt="image" src="https://github.com/user-attachments/assets/25c15a7f-6228-49a8-ad1f-23d4c897702f" />
 
 
-#### 1. Previously Worked (real-time Linux) on ...(from development-to-support Lead)
+#### 1. Worked (Linux platform) on ...(from development-to-support Lead)
 <img width="677" height="370" alt="image" src="https://github.com/user-attachments/assets/cc1f1a9e-2142-428e-b1af-3903096acf4d" />
 
-#### 2. Previously Worked as Production Support Lead-SRE on …..
+#### 2. As Production Support Lead-SRE worked on …..
 <img width="897" height="847" alt="image" src="https://github.com/user-attachments/assets/502741ee-e579-43bf-8c96-cbd6218777d2" />
 
 
