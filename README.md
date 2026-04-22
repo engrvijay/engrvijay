@@ -6,8 +6,11 @@
 <img width="975" height="1031" alt="image" src="https://github.com/user-attachments/assets/25c15a7f-6228-49a8-ad1f-23d4c897702f" />
 
 
-Earlier Worked on ...
-<img width="781" height="500" alt="image" src="https://github.com/user-attachments/assets/f96141f1-07c6-4ef4-bacd-39e2f487911e" />
+#### 1. Previously Worked (real-time Linux) on ...(from development-to-support Lead)
+<img width="677" height="370" alt="image" src="https://github.com/user-attachments/assets/cc1f1a9e-2142-428e-b1af-3903096acf4d" />
+
+#### 2. Previously Worked as Production Support Lead-SRE on …..
+<img width="897" height="847" alt="image" src="https://github.com/user-attachments/assets/502741ee-e579-43bf-8c96-cbd6218777d2" />
 
 
 <!--
@@ -24,6 +27,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 ===========nmap python netscaner =======
 
