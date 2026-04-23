@@ -3,8 +3,7 @@
 ### Delivered with demonstrated collaboration, problem-solving, teamwork and building trust across departments, customers-users and teams.
 ### Let me know for system demo.
 🔭 currently working on ...
-<img width="975" height="1031" alt="image" src="https://github.com/user-attachments/assets/25c15a7f-6228-49a8-ad1f-23d4c897702f" />
-
+<img width="975" height="1029" alt="image" src="https://github.com/user-attachments/assets/b24eb128-850d-49be-8609-85806f3054d5" />
 
 #### 1. Worked (Linux platform) on ...(from development-to-support Lead)
 <img width="677" height="370" alt="image" src="https://github.com/user-attachments/assets/cc1f1a9e-2142-428e-b1af-3903096acf4d" />
