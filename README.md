@@ -1,6 +1,6 @@
 ## Hi  👋
 ### As an Engineer, Leader building, delivering and supporting Security, HPC solution with RCA, Quality, Compliance-Integrity frameworks.
-### Delivered with demonstrated collaboration, problem-solving, teamwork and building trust across departments, customers-users and teams.
+### Drove product initiative, contributed to solution design, prepared data and ensured delivery and presenting technical solutions to customers and stakeholders. Created, Setup POC-demo and successfully presented, for acceptance..
 ### Let me know for system demo.
 🔭 currently working on ...
 <img width="975" height="1029" alt="image" src="https://github.com/user-attachments/assets/b24eb128-850d-49be-8609-85806f3054d5" />
